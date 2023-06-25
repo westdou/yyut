@@ -2,3 +2,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInJlcGxpdC12bWVzcyIsDQogICJhZGQiOiAid2h5
 vless://73b5a6ed-9739-42d0-abe1-4f65a6621708@whyso.repess.repl.co:443?encryption=none&security=tls&type=ws&host=whyso.repess.repl.co&path=%2F73b5a6ed-9739-42d0-abe1-4f65a6621708-vl#replit-vless
 trojan://73b5a6ed-9739-42d0-abe1-4f65a6621708@whyso.repess.repl.co:443?security=tls&type=ws&host=whyso.repess.repl.co&path=%2F73b5a6ed-9739-42d0-abe1-4f65a6621708-tr#replit-trojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3M2I1YTZlZC05NzM5LTQyZDAtYWJlMS00ZjY1YTY2MjE3MDg=@whyso.repess.repl.co:443#shadowsocks%2Bws%2Btls
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInJlcGxpdC12bWVzcyIsDQogICJhZGQiOiAid2QucmVwZXNzLnJlcGwuY28iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODEyNjAyYWYtY2FlMi00NGU5LTk3MDUtMDE0MDZkMjczNTQzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3ZC5yZXBlc3MucmVwbC5jbyIsDQogICJwYXRoIjogIi84MTI2MDJhZi1jYWUyLTQ0ZTktOTcwNS0wMTQwNmQyNzM1NDMtdm0iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://812602af-cae2-44e9-9705-01406d273543@wd.repess.repl.co:443?encryption=none&security=tls&type=ws&host=wd.repess.repl.co&path=%2F812602af-cae2-44e9-9705-01406d273543-vl#replit-vless
+trojan://812602af-cae2-44e9-9705-01406d273543@wd.repess.repl.co:443?security=tls&type=ws&host=wd.repess.repl.co&path=%2F812602af-cae2-44e9-9705-01406d273543-tr#replit-trojan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTI2MDJhZi1jYWUyLTQ0ZTktOTcwNS0wMTQwNmQyNzM1NDM=@wd.repess.repl.co:443#shadowsocks%2Bws%2Btls
